@@ -60,3 +60,13 @@ These are combined via **Global Max Pooling**, followed by:
 
 ---
 
+## 👥 Contributors
+
+Thanks to the amazing team who made this possible:
+
+- [@chewliy](-)
+- [@angqiaoyi]([https://github.com/angqiaoyi](https://github.com/QiaoYi01))
+- [@teohmingxue]([https://github.com/teohmingxue](https://github.com/JacksonR553))
+- [@wongsumhui](-)
+
+---
