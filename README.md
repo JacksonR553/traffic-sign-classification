@@ -11,7 +11,6 @@
 This project develops a **real-time traffic sign classification system** for autonomous vehicles and Advanced Driver Assistance Systems (ADAS).  
 By leveraging **ensemble deep learning**, we ensure both **high classification accuracy** and **lightweight performance**, making it ideal for deployment on embedded systems.
 
----
 
 ## 🧠 Model Architecture
 
@@ -28,7 +27,6 @@ These are combined via **Global Max Pooling**, followed by:
 
 > Base layers are frozen (transfer learning) to reduce training time.
 
----
 
 ## ✅ Results Summary
 
@@ -43,7 +41,6 @@ These are combined via **Global Max Pooling**, followed by:
 
 > 📉 **80% reduction in model size** with just **~1.8% accuracy drop**.
 
----
 
 ## 🧪 Project Highlights
 
@@ -53,11 +50,9 @@ These are combined via **Global Max Pooling**, followed by:
 - 📉 Dropout + L2 regularization to reduce overfitting.
 - 📊 Evaluation with confusion matrices, learning curves, and visual analysis.
 
----
 
 ## 📷 Demo Included **
 
----
 
 ## 👥 Contributors
 
@@ -68,4 +63,3 @@ Thanks to the amazing team who made this possible:
 - [@teohmingxue](https://github.com/JacksonR553)
 - [@wongsumhui](-)
 
----
