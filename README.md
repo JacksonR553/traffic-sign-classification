@@ -5,7 +5,6 @@
 **Platform**: Google Colab • TensorFlow • Keras • OpenCV  
 **Demo Included ✅**
 
----
 
 ## 📘 Project Overview
 
